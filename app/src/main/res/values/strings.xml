@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Auditoría SST</string>
+    <string name="header_subtitle">Especialista Senior SST · ISO 45001 &amp; OSHA</string>
+    <string name="nav_audit">Auditar</string>
+    <string name="nav_history">Historial</string>
+    <string name="nav_reference">Normativa</string>
+    <string name="btn_pick_photo">Subir Foto</string>
+    <string name="btn_take_photo">Cámara</string>
+    <string name="btn_run_audit">Ejecutar Auditoría Visual SST</string>
+    <string name="label_thinking_mode">Razonamiento Profundo (High Thinking)</string>
+    <string name="desc_thinking_mode">Análisis exhaustivo multicapa con gemini-3.1-pro-preview</string>
+    <string name="section_1_title">1. DIAGNÓSTICO DEL ENTORNO</string>
+    <string name="section_2_title">2. IDENTIFICACIÓN DE PELIGROS Y ACTOS INSEGUROS</string>
+    <string name="section_3_title">3. EVALUACIÓN DEL NIVEL DE RIESGO</string>
+    <string name="section_4_title">4. MEDIDAS PREVENTIVAS Y CORRECTIVAS</string>
+    <string name="section_5_title">5. RECOMENDACIONES TÉCNICAS Y TIPS DE CULTURA PREVENTIVA</string>
+    <string name="security_prototype_notice">Modo Prototipo: La clave GEMINI_API_KEY se gestiona mediante el panel Secrets de AI Studio.</string>
+    <string name="share_audit_report">Compartir Informe SST</string>
+</resources>

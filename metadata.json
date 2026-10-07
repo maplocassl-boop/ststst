@@ -1,0 +1,8 @@
+{
+  "name": "Remix Auditoría SST",
+  "description": "Auditoría visual de Seguridad y Salud en el Trabajo (SST) y análisis de riesgos laborales bajo estándares ISO 45001 y OSHA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
